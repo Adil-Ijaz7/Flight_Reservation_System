@@ -193,7 +193,7 @@ int main() {
     cout << "\n\n\n\t\t          Developed by : ADIL IJAZ";
     cout << "\n\n\t\t                         ABDUL SAMAD";
     cout << "\n\n\t\t                         ABDUL KABEER";
-    cout << "\n\n\t\t                         MAJID ALI\n";
+    cout << "\n\n\t\t                         MAJID ALI CHANNA\n";
 
     do {
         cout << "\n\t\t\t               ** MAIN MENU **\n";
